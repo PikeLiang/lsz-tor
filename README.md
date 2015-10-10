@@ -11,7 +11,7 @@ Tor一款高度匿名代理工具
 ## 网桥来源 ##
 访问 [https://bridges.torproject.org/bridges?transport=obfs2](https://bridges.torproject.org/bridges?transport=obfs2 "https://bridges.torproject.org/bridges?transport=obfs2") 获取obfs2网桥
 <br />
-访问 <a target="_blank" href="https://bridges.torproject.org/bridges?transport=obfs3">https://bridges.torproject.org/bridges?transport=obfs3</a> 获取obfs3网桥
+访问 <a target="_blank" href="https://bridges.torproject.org/bridges?transport=obfs3">`https://bridges.torproject.org/bridges?transport=obfs3`</a> 获取obfs3网桥
 访问 https://bridges.torproject.org/bridges?transport=obfs4 获取obfs4网桥
 访问 https://bridges.torproject.org/bridges?transport=scramblesuit 获取scramblesuit网桥
 给bridges@bridges.torproject.org发邮件（标题和正文都写get transport obfs3，其他类型“照猫画虎”）获取网桥。
