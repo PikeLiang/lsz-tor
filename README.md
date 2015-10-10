@@ -2,7 +2,8 @@
 
 # Tor全套教程归来 #
 
-[来自：https://github.com/liangsenzhi/lsz-tor]
+[来自：<a target="_blank" href="https://github.com/liangsenzhi/lsz-tor">`https://github.com/liangsenzhi/lsz-tor`</a>]
+
 
 Tor一款高度匿名代理工具
 内置多款网桥，不过速度不佳
@@ -27,11 +28,11 @@ Tor一款高度匿名代理工具
  获取scramblesuit网桥
 <br />
 
-给bridges@bridges.torproject.org发邮件（标题和正文都写get transport obfs3，其他类型“照猫画虎”）获取网桥。
+给`bridges@bridges.torproject.org`发邮件（标题和正文都写get transport obfs3，其他类型“照猫画虎”）获取网桥。
 以上几种方法加起来大约可以20个网桥，然后根据以下地址测试速度。最后把400K/S以上的网桥都放到tor中（后边会说网桥往哪放）
 
 ## 网桥测速地址 ##
-通过 https://atlas.torproject.org/#search/网桥的fingerprint（40位字母数字组合） 来查看带宽，最好能找到大于1M/S的网桥！！
+通过 `https://atlas.torproject.org/#search/网桥的fingerprint`（40位字母数字组合） 来查看带宽，最好能找到大于1M/S的网桥！！
 
 ## 【具体提取过程如下:】 ##
 
